@@ -1,0 +1,137 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 165,
+    "sha256": "c3a56a51dae0945ee3785cf21f46c67ceed312113ea50903c30dd8b09358b435"
+  },
+  {
+    "path": "CITATION.cff",
+    "size_bytes": 580,
+    "sha256": "6e059be33d101ab11a51178b82ce83a5522d65eafced5878e22ae4531435840f"
+  },
+  {
+    "path": "LICENSE",
+    "size_bytes": 1065,
+    "sha256": "60ecaf9f07115ad105fcc3c721bfac774be216bf95bd117e41ede9a70361b500"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 4185,
+    "sha256": "9d65caeb753daa731c7c5dd15069bf932a48ae26c113e03d9e8f4556a90738af"
+  },
+  {
+    "path": "data/README.md",
+    "size_bytes": 1683,
+    "sha256": "2aad89b234626c43b200be14c844fffc61591b469a5978591d4ebf138835a29a"
+  },
+  {
+    "path": "docs/ATTRIBUTION.md",
+    "size_bytes": 2665,
+    "sha256": "5420425c7efaff6665cc94b1de53488c2f869fff52057af2aa3faf6d2b53b2dc"
+  },
+  {
+    "path": "docs/DATA_CHECKS.md",
+    "size_bytes": 1122,
+    "sha256": "eb68342cc00d9bb12e409f0716c1914e1b5ff62179a887cf304bf516bfe28be6"
+  },
+  {
+    "path": "docs/FEATURES.md",
+    "size_bytes": 1552,
+    "sha256": "bcb66d43f4adacdf995ddc5170cc9bdb11b8d094f433c03b773f4567885f5929"
+  },
+  {
+    "path": "docs/RELEASE_STEPS.md",
+    "size_bytes": 1311,
+    "sha256": "a3289f6a7ba983457a211a90a24b96da83769829ec464f0b9255a64d883c2321"
+  },
+  {
+    "path": "figures/shap_final.pdf",
+    "size_bytes": 200591,
+    "sha256": "375d64201e66eb6dc807d6da1165d02655e88cda85c4ee2adfae79b9391538b2"
+  },
+  {
+    "path": "figures/shap_final.png",
+    "size_bytes": 507872,
+    "sha256": "fd985839848e8fa38fa4e67f4dd8380767a6be042c704302442eb1b783d29fb4"
+  },
+  {
+    "path": "legacy/README.md",
+    "size_bytes": 265,
+    "sha256": "72e4e2284b043dc14064dd7af664e69320ad4775a2d60bd541895e7a9f80743f"
+  },
+  {
+    "path": "model/footprint_lightgbm_15features.txt",
+    "size_bytes": 4141927,
+    "sha256": "b6052de9dc77c7c6820996f081af876546cf46b4a9ae54deea4c3e16a10def33"
+  },
+  {
+    "path": "requirements.txt",
+    "size_bytes": 406,
+    "sha256": "87fb9c7e2ebdf0b1b321f457a490ffc1004081a6254ef3b8f482b56e8757138e"
+  },
+  {
+    "path": "results/feature_family_ablation.csv",
+    "size_bytes": 459,
+    "sha256": "8e0ae4bb6472e0a3b6c1789a5735eca3c432892e2956542916d8c0cb274b44f8"
+  },
+  {
+    "path": "results/fold_metrics.csv",
+    "size_bytes": 8548,
+    "sha256": "cd5f8f9462fabc1cf0b082218f5b785f663707e1442b751552159951e533acf0"
+  },
+  {
+    "path": "results/geometry_audit.json",
+    "size_bytes": 654,
+    "sha256": "6d673589b0cb251a9e43b44327d250cdedb2712766cd1c030d0fc3b4355efb51"
+  },
+  {
+    "path": "results/shap_importance.csv",
+    "size_bytes": 1928,
+    "sha256": "ef8df4858864c9466194f65df372e765e84056c1d5c4ce0efe30e0b859886a82"
+  },
+  {
+    "path": "results/threshold_sensitivity.csv",
+    "size_bytes": 565,
+    "sha256": "87de5d2caa982888090d6c3e7782052cde298ef9d1cfeb8ade4e0d3b11736379"
+  },
+  {
+    "path": "scripts/common.py",
+    "size_bytes": 691,
+    "sha256": "985e061e5bde97eba45e13362bfda847dea1dc5207713d83d4cdb6957d9ab4e2"
+  },
+  {
+    "path": "scripts/extract_reference.py",
+    "size_bytes": 2617,
+    "sha256": "e293b4e1b48ab997d0b73755a461c27f6ca48ef84bd164f88e9c6c4fcc4dd8e6"
+  },
+  {
+    "path": "scripts/inventory.py",
+    "size_bytes": 1191,
+    "sha256": "03b5ec528cd7577ea8b84d1c84d9779ca1abf1ea7ac9b53bf22c97831a075b8b"
+  },
+  {
+    "path": "scripts/plot_screening.py",
+    "size_bytes": 1727,
+    "sha256": "b847140f3ab3f4b479757f66f6701bf5c18e4ea0f2b7c47cb586a502a4846c79"
+  },
+  {
+    "path": "scripts/shap_plot.py",
+    "size_bytes": 2583,
+    "sha256": "4001fd8dadf9ec647d8c95e8d08bf77c38ac121260a8de4b63eb222a4992f360"
+  },
+  {
+    "path": "scripts/validate.py",
+    "size_bytes": 4468,
+    "sha256": "3f989a7f4610af00aeafc45eb7469b1651c70f885f526095e63f7bc4765c566c"
+  },
+  {
+    "path": "scripts/verify.py",
+    "size_bytes": 1095,
+    "sha256": "5d9605de6a0fda732f386f27c980a007251ebfbacedbb34e1e31def6c8f02f45"
+  },
+  {
+    "path": "tests/test_quick.py",
+    "size_bytes": 499,
+    "sha256": "8bc4adaefe7d6a13793852bebdc9809f8198e770e33b039011a0eb548e01b509"
+  }
+]

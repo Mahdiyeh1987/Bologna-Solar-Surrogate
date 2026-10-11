@@ -1,0 +1,14 @@
+{
+  "sample_size": 1525,
+  "all_1525_buffers_exact_mitre_50_m": true,
+  "median_original_footprint_area_m2": 122.2515911018046,
+  "median_buffer_geometry_area_m2": 12672.989944291568,
+  "footprints_with_no_saga_cell_center": 1070,
+  "footprints_no_non_nodata_intersecting_cell": 0,
+  "median_intersected_raster_cells_per_footprint": 2.0,
+  "median_original_saga_area_coverage": 1.0,
+  "median_abs_difference_old_labels_and_footprint_area_weighted_saga": 14.116206952517587,
+  "r2_buffer_labels_vs_footprint_area_weighted": 0.5732862999611794,
+  "spearman_buffer_labels_vs_footprint_area_weighted": 0.7728085215910117,
+  "elapsed_sec": 2.675530433654785
+}

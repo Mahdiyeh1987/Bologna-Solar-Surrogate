@@ -1,0 +1,16 @@
+feature,figure_label,definition,mean_absolute_SHAP_kWh_m2_yr
+acosmean,Aspect cosine,Mean cosine of DEM aspect (direction encoded circularly),32.80959075624435
+slpmean,Mean DEM slope,Mean DEM-derived slope descriptor,9.991273701914173
+svf_mean,Sky view factor,Mean DEM-derived sky-view factor,2.1807839468678156
+shadow_mean,Hillshade index,Mean of four-direction hillshade index,1.8854072034964817
+relief_mean,Local relief,Mean terrain relief (elevation range in a 21-cell window),1.1683088741437109
+rbtcd10_pct,Tree-cover share ≥10%,Fraction of neighbourhood cells with tree-cover density ≥10% in 50 m buffer (%),0.9023661782775442
+area_m2,Footprint area,Original building footprint area in square metres,0.878220525952721
+asinmean,Aspect sine,Mean sine of DEM aspect (direction encoded circularly),0.843588932581992
+rbwc50_pct,Built-up cover (50 m),ESA WorldCover class 50 built-up fraction in the 50 m buffer (%),0.8387031535022038
+ua_rbua50_2018_12100_pct,Industrial/commercial/public units (UA 12100),"Urban Atlas 2018 industrial, commercial, public, military and private units, 50 m buffer (%)",0.46453501057016466
+ua_rbua50_2018_11210_pct,Dense urban fabric (UA 11210),"Urban Atlas 2018 discontinuous dense urban fabric (50–80% soil sealing), 50 m buffer (%)",0.3349773528760937
+ua_rbua50_2018_14100_pct,Green urban areas (UA 14100),"Urban Atlas 2018 green urban areas, 50 m buffer (%)",0.21239741911029236
+ua_rbua50_2018_11220_pct,Medium-density urban fabric (UA 11220),"Urban Atlas 2018 discontinuous medium-density urban fabric (30–50% soil sealing), 50 m buffer (%)",0.11378616141742728
+ua_rbua50_2018_11230_pct,Low-density urban fabric (UA 11230),"Urban Atlas 2018 discontinuous low-density urban fabric (10–30% soil sealing), 50 m buffer (%)",0.11243578391785194
+ua_rbua50_2018_13400_pct,Land without current use (UA 13400),"Urban Atlas 2018 land without current use, 50 m buffer (%)",0.001057035218906954

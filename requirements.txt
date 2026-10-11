@@ -1,0 +1,16 @@
+# Versions of the isolated environment used to inspect/verify this 2026 release.
+# NOT a claim about the historical 2025/2026 thesis workstation.
+# Python 3.13.5 (Linux; October 2026 verification environment)
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+lightgbm==4.6.0
+matplotlib==3.10.8
+shap==0.50.0
+geopandas==1.1.2
+shapely==2.1.2
+rasterio==1.5.0
+pyogrio==0.12.1
+fiona==1.10.1
+pytest>=8

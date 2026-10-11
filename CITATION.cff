@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite the corrected code release DOI once assigned; the historical Zenodo DOI refers to the original thesis buffer-target workflow."
+title: "Bologna building-footprint SAGA irradiation surrogate: corrected analysis code"
+type: software
+authors:
+  - family-names: Tabatabaei
+    given-names: Mahdiyeh
+    orcid: https://orcid.org/0009-0007-7219-3525
+version: "1.1.0-rc1"
+repository-code: https://github.com/Mahdiyeh1987/Bologna-Solar-Surrogate
+license: MIT
+keywords:
+  - LightGBM
+  - SAGA irradiation proxy
+  - Bologna
+  - GIS
+  - reproducible research
